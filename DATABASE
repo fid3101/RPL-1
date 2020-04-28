@@ -1,0 +1,36 @@
+CREATE DATABASE elis;
+CREATE DATABASE
+postgres=# \c elis;
+You are now connected to database "elis" as user "postgres".
+
+
+elis=# CREATE TABLE pengguna(
+elis(# id CHAR(20) NOT NULL,
+elis(# nama VARCHAR (50) NOT NULL,
+elis(# nomor_telpon VARCHAR(12) NOT NULL,
+elis(# alamat_kantor_cabang_pln VARCHAR(250) NOT NULL,
+elis(# email VARCHAR(50) NOT NULL,
+elis(# password VARCHAR(50) NOT NULL,
+elis(# CONSTRAINT pelanggan_id_PK PRIMARY KEY(id));
+CREATE TABLE
+
+
+CREATE TABLE petugas_pln(
+id_petugas CHAR(20) NOT NULL,
+nama VARCHAR (50) NOT NULL,
+nomor_telpon VARCHAR(12) NOT NULL,
+alamat_kantor_cabang_pln VARCHAR(250) NOT NULL);
+
+CREATE TABLE lampu(
+kode_lampu CHAR(20) NOT NULL,
+status BOOLEAN);
+
+
+CREATE TABLE  Pemadaman(
+no_pemadaman INT NOT NULL,
+tanggal DATE NOT NULL,
+jam TIME NOT NULL,
+deskripsi VARCHAR(500) NOT NULL);
+
+CREATE TABLE  penggunaan_listrik(
+tagihan NUMERIC NOT NULL);
