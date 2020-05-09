@@ -26,3 +26,14 @@ Kebutuhan sumberdaya listrik khusunya di Pulau Jawa sebagian besar berasal dari 
 Tujuan dibuatnya aplikasi ini untuk mengurangi perilaku pemborosan listrik, 
 sehingga dapat menghemat penggunaan sumber daya listrik dimulai dari diri sendiri dan rumah tangga. 
 ```
+
+## Ruang Lingkup
+
+```
+Perangkat keras yang digunakan adalah laptop 
+Dengan spesifikasi processor 
+*Intel Inside i5 
+*memori 4 GB 
+*graphic card Intel HD graphic family 
+*storage 500 GB. 
+```
