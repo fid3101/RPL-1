@@ -2,7 +2,7 @@
 
 # ELIS 
 
-<h2> Kolompok 5</h2>
+## Kolompok 5
 
 ```
 Anggota :
@@ -11,15 +11,18 @@ Anggota :
 3. Lathifah Kurnia K (G64180023)
 ```
 
-<h2> Latar Belakang </h2>
+## Latar Belakang 
 
 ```
-Pertumbuhan populasi manusia meningkat secara tajam pada abad sekarang ini. tercatat pada sensus penduduk tahun 2015 sebesar 238.518.000 jiwa dan diproyeksikan akan meningkat pada tahun 2020 menjadi sebanyak 271.066.000 jiwa. Kebutuhan sumberdaya listrik khusunya di Pulau Jawa sebagian besar berasal dari pembangkit listrik bertenaga bahan bakar fosil. Pembangkit listrik ini menyebabkan polusi udara dan kerusakan lingkungan karena bahan bakarnya bisa berasal dari pertambangan batu bara. 
+Pertumbuhan populasi manusia meningkat secara tajam pada abad sekarang ini. 
+Tercatat pada sensus penduduk tahun 2015 sebesar 238.518.000 jiwa dan diproyeksikan akan meningkat pada tahun 2020 menjadi sebanyak 271.066.000 jiwa. 
+Kebutuhan sumberdaya listrik khusunya di Pulau Jawa sebagian besar berasal dari pembangkit listrik bertenaga bahan bakar fosil. Pembangkit listrik ini menyebabkan polusi udara dan kerusakan lingkungan karena bahan bakarnya bisa berasal dari pertambangan batu bara. 
 
 ```
 
-<h2> Tujuan </h2>
+## Tujuan
 
 ```
-Tujuan dibuatnya aplikasi ini untuk mengurangi perilaku pemborosan listrik, sehingga dapat menghemat penggunaan sumber daya listrik dimulai dari diri sendiri dan rumah tangga. 
+Tujuan dibuatnya aplikasi ini untuk mengurangi perilaku pemborosan listrik, 
+sehingga dapat menghemat penggunaan sumber daya listrik dimulai dari diri sendiri dan rumah tangga. 
 ```
