@@ -11,9 +11,8 @@ Anggota :
 
 
 ## Latar Belakang 
----------------------
 Pertumbuhan populasi manusia meningkat secara tajam pada abad sekarang ini. Tercatat pada sensus penduduk tahun 2015 sebesar 238.518.000 jiwa dan diproyeksikan akan meningkat pada tahun 2020 menjadi sebanyak 271.066.000 jiwa. Kebutuhan sumberdaya listrik khusunya di Pulau Jawa sebagian besar berasal dari pembangkit listrik bertenaga bahan bakar fosil. Pembangkit listrik ini menyebabkan polusi udara dan kerusakan lingkungan karena bahan bakarnya bisa berasal dari pertambangan batu bara. 
---------------------
+
 
 
 ## Tujuan
@@ -30,3 +29,25 @@ Dengan spesifikasi processor
 * graphic card Intel HD graphic family 
 * storage 500 GB. 
 
+## Deskripsi Perangkat Lunak
+
+Pada aplikasi ELIS ini terdapat beberapa fitur, yaitu
+* Fitur Atur Alat Listri : fitur ini memungkinkan penggunanya untuk mematikan aliran listrik ke lampu dan juga stopkontak secara otomatis ataupun secara manual.
+* Fitur Info Pemadaman : fitur ini memberikan informasi daerah yang terjadi pemadaman listrik.
+* Fitur Kalkulasi Penggunaan Listrik : fitur ini menampilkan kalkulasi penggunaan listrik pada rumah pengguna.
+
+## Analisis User
+
+## User Story
+
+## Use Case Diagram
+
+## Use Case Description
+
+## Activity Diagram
+
+## Gantt Chart
+
+## Hasil Implementasi
+
+Tampilan aplikasinya
