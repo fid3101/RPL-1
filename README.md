@@ -6,7 +6,7 @@
 
 Anggota :
 1. Rian Reftian (G641800--)
-2. Muhammad Hafiduddin (G641800--)
+2. Muhammad Hafiduddin (G64180017)
 3. Lathifah Kurnia K (G64180023)
 
 
